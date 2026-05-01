@@ -1,3 +1,4 @@
 # Welcome to your Lovable project
 
-TODO: Document your project here
+[Visit the Online Book Reader](http://dexterreader.lovable.app/)
+
